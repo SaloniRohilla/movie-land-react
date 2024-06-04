@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movie-land-react/static/css/main.34072d9b.css",
+    "main.js": "/movie-land-react/static/js/main.bf3b4a32.js",
+    "static/js/787.7c42db31.chunk.js": "/movie-land-react/static/js/787.7c42db31.chunk.js",
+    "static/media/logo.png": "/movie-land-react/static/media/logo.3d1b7989e55e7e88d719.png",
+    "index.html": "/movie-land-react/index.html",
+    "static/media/search.svg": "/movie-land-react/static/media/search.b1f781b99ceaafb9c831949bb54ae3cd.svg",
+    "main.34072d9b.css.map": "/movie-land-react/static/css/main.34072d9b.css.map",
+    "main.bf3b4a32.js.map": "/movie-land-react/static/js/main.bf3b4a32.js.map",
+    "787.7c42db31.chunk.js.map": "/movie-land-react/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34072d9b.css",
+    "static/js/main.bf3b4a32.js"
+  ]
+}
